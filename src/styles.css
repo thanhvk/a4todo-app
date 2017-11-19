@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.complete {
+    text-decoration: line-through;
+    color: rgb(245, 107, 107);
+}
+
+ul {
+    list-style: none;
+}
